@@ -1,7 +1,11 @@
 body{background-color: #A1EB7C;}
 h1{font-size: 50px; color:#9E4544; text-align: center;font-family: sans-serif;}
 h3{font-size: 40px; color: #EB7171; text-align: center;}
+h4{font-size: 30px; color: #EB7171; text-align: center;}
 p{font-size: 25px; color:#7F649E; text-align: center;font-family: cursive;background-color: rgb(122, 146, 255);}
-span{color:#B688EB; border: 5px inherit grey; padding: 15px; }
+span{color:#B688EB; border: 5px solid grey; padding: 15px; margin: 60px;}
+ul{color:#B688EB; text-align: left;font-family: sans-serif; }
+li::marker{font-size: 30px; content:"\1F49F";}
 #capa{width: 100%;}
-#ilusao{width: 90%; border: 20px solid grey; }
+#carro{width: 90%; border: 20px solid grey; margin-left: 150px; margin: 60px;}
+.apresentação{background-color: aqua;}
